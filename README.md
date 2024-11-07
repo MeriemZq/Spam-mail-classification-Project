@@ -1,1 +1,1 @@
-# Spam-mail-classification-Project
+Spam email detection is an important application of machine learning in filtering unwanted emails from our inboxes. This project uses a Logistic Regression model to classify emails as spam or non-spam based on the content of the email. It includes data preprocessing steps, feature extraction, and training and evaluation of the model.
